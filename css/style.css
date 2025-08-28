@@ -1,0 +1,52 @@
+body{
+  background-color: #24353F ;
+}
+
+.font_l{
+  font-size: 20px !important;
+}
+
+.login_wp{
+  width: 60%;
+  margin: 50px auto;
+  background-color: #24353F;
+
+}
+
+.input_style{
+  background-color: #24353F;
+  border: 1px solid #ffff;
+}
+
+
+.input_style:focus{
+  background-color: #24353F !important;
+  
+}
+
+
+.login_wp button{
+  border: 1px solid #17A2B8;
+  color: #17A2B8 !important;
+  font-size: 1.3rem;
+}
+
+.login_wp button:hover{
+  background-color:  #17A2B8 !important;
+  color: #ffff !important;
+}
+
+
+h1{
+  color: #17A2B8 !important;
+}
+
+
+
+
+
+
+
+
+
+
